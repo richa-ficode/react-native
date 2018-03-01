@@ -95,6 +95,7 @@ FlatListItemSeparator = () => {
         />
         <View style={{alignItems:'flex-end',marginRight:15,flex:0.3}}>
         <Image source={ok_png} style={{width:50,height:50,}}/>
+        <Image source={ok_png} style={{width:50,height:50,}}/>
         </View>
         </View>
       </View>
